@@ -19,9 +19,9 @@
         // 外部のクラスが使えないように
         // priavteに設定
 
-        private Singleton() { } 
+        private Singleton() { }
 
-        public void Method() 
+        public void Method()
         {
             Console.WriteLine("...");
         }
